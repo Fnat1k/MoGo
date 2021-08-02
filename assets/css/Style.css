@@ -35,7 +35,7 @@ hr {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url(/assets/images/intro.jpg) center no-repeat;
+    background: url(./assets/images/intro.jpg) center no-repeat;
     background-size: cover;
 
 }
